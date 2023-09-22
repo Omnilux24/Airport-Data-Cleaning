@@ -51,7 +51,7 @@ To ensure data consistency and organization, we sorted the dataset by the follow
 
 We visualized the geographical distribution of airports using a scatter plot. This visualization helps provide insights into the locations of airports.
 
-![Airport Locations](images/airport_locations.png)
+![Airport Locations](output.png)
 
 ## File Output
 
